@@ -1,4 +1,5 @@
 Egy Egyszerű ID Script ami a fejed felett jelenik meg, További Frissítések Várhatóak ehez a scripthet!
+F9 Gombal ki/be kapcsolható
 
 Előnézet: https://www.youtube.com/watch?v=oVO1_8uEYIY
 
